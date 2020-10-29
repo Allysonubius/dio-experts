@@ -98,5 +98,6 @@
     <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-api:2.12.1" level="project" />
     <orderEntry type="library" name="Gradle: org.ow2.asm:asm:5.0.4" level="project" />
   </component>
+  <component name="POM File Configuration" pomFile="" />
   <component name="TestModuleProperties" production-module="config-server.main" />
 </module>
